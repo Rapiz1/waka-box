@@ -1,3 +1,7 @@
+This is a forked repo to auto update my weekly breakdown gist
+
+---
+
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/4658208/60469862-2e40bf00-9c2c-11e9-87f7-afe164648de4.png">
   <h3 align="center">waka-box</h3>
